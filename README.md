@@ -41,6 +41,8 @@ server.js: Es el archivo central. Aquí está toda la lógica en JavaScript, def
 
 package.json: Indica las librerías necesarias (express, mysql2) y los comandos para iniciar el servidor.
 
+test-api.py : Para verificar con python que nuestra api funciona correctamente .
+
 𝗖𝗢𝗠𝗢 𝗦𝗘 𝗣𝗢𝗡𝗘 𝗘𝗡 𝗙𝗨𝗡𝗖𝗜𝗢𝗡𝗔𝗠𝗜𝗘𝗡𝗧𝗢:
 
 𝐑𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐨𝐬:
@@ -65,5 +67,8 @@ Herramienta de Prueba: Usamos Postman para enviar peticiones HTTP (GET, POST, et
 
 Verificación: Esto permite confirmar que la lógica de la API y la conexión a la base de datos funcionan correctamente, recibiendo los códigos de estado HTTP esperados (200 OK, 201 Created).
 
+𝗦𝗜𝗦𝗧𝗘𝗠𝗔 𝗗𝗘 𝗩𝗘𝗥𝗜𝗙𝗜𝗖𝗔𝗖𝗜𝗢́𝗡 𝗖𝗢𝗡 𝗣𝗬𝗧𝗛𝗢𝗡:
+
+Función: Automatizar las pruebas de seguridad y paridad contra el entorno local (localhost:3000) y el entorno de GLPI en la nube. Esta es la herramienta de certificación.
 
 
