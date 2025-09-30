@@ -1,6 +1,6 @@
-                                                            ℙℝ𝔸ℂ𝕋𝕀ℂ𝔸𝕊 𝔻𝔼𝕃 ℂ𝕌ℝ𝕊𝕆 𝕆ℂ𝕌ℙ𝔸ℂ𝕀𝕆ℕ𝔸𝕃 𝔻𝔼 ℙℝ𝕆GR𝔸𝕄𝔸ℂ𝕀𝕆́ℕ 𝕆ℝ𝕀𝔼ℕ𝕋𝔸𝔻𝔸 𝔸 𝕆𝔹𝕁𝔼𝕋𝕆𝕊 𝕐 𝔹𝔸𝕊𝔼𝕊 𝔻𝔼 𝔻𝔸𝕋𝕆𝕊 ℝ𝔼𝕃𝔸ℂ𝕀𝕆ℕ𝔸𝕃𝔼𝕊
+ℙℝ𝔸ℂ𝕋𝕀ℂ𝔸𝕊 𝔻𝔼𝕃 ℂ𝕌ℝ𝕊𝕆 𝕆ℂ𝕌ℙ𝔸ℂ𝕀𝕆ℕ𝔸𝕃 𝔻𝔼 ℙℝ𝕆GR𝔸𝕄𝔸ℂ𝕀𝕆́ℕ 𝕆ℝ𝕀𝔼ℕ𝕋𝔸𝔻𝔸 𝔸 𝕆𝔹𝕁𝔼𝕋𝕆𝕊 𝕐 𝔹𝔸𝕊𝔼𝕊 𝔻𝔼 𝔻𝔸𝕋𝕆𝕊 ℝ𝔼𝕃𝔸ℂ𝕀𝕆ℕ𝔸𝕃𝔼𝕊
                                                                     
-                                                                                            𝐄𝐍 𝐋𝐀 𝐄𝐌𝐏𝐑𝐄𝐒𝐀 : 𝐅𝐈𝐑𝐄𝐂𝐇𝐈𝐏
+                                           𝐄𝐍 𝐋𝐀 𝐄𝐌𝐏𝐑𝐄𝐒𝐀 : 𝐅𝐈𝐑𝐄𝐂𝐇𝐈𝐏
 
 Este proyecto es el Trabajo Práctico finalizado durante mis prácticas profesionales en Fire&Chip. Es el requisito para la obtención del título del Curso Ocupacional de Programación Orientada a Objetos (POO) y Bases de Datos Relacionales.
 
@@ -17,7 +17,7 @@ A continuación explicaré lo qy¡ue he estado desarrollando durante el proyecto
 
 𝘓𝘰́𝘨𝘪𝘤𝘢 𝘦𝘯 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵: Todo el backend y la lógica de la API están escritos completamente en JavaScript, demostrando solidez en el lenguaje.
 
-Funciones CRUD Genéricas: Apliqué la POO para crear funciones CRUD genéricas. Esto significa que el mismo código JavaScript se reutiliza para gestionar cualquier tipo de entidad (Tickets, Usuarios, etc.), un principio clave de abstracción y modularidad.
+𝐹𝑢𝑛𝑐𝑖𝑜𝑛𝑒𝑠 𝐶𝑅𝑈𝐷 𝐺𝑒𝑛𝑒́𝑟𝑖𝑐𝑎𝑠: Apliqué la POO para crear funciones CRUD genéricas. Esto significa que el mismo código JavaScript se reutiliza para gestionar cualquier tipo de entidad (Tickets, Usuarios, etc.), un principio clave de abstracción y modularidad.
 
 2.DESARROLLO DE ENDPOINTS CON NODE.JS Y EXPRESS
 
