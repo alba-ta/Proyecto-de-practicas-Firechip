@@ -1,8 +1,6 @@
-¡Lo entiendo perfectamente! El texto está muy condensado y necesitas puntos de lista claros para estructurar la información y hacer que el README.md sea fácil de leer.
-
-He reestructurado las secciones clave utilizando puntos de lista (-) y saltos de línea, lo que hará que el contenido se vea mucho más limpio y profesional. El formato y la tipografía especial se mantienen intactos.
 
 ℙℝ𝔸́ℂ𝕋𝕀ℂ𝔸𝕊 𝔻𝔼𝕃 ℂ𝕌ℝ𝕊𝕆 𝕆ℂ𝕌ℙ𝔸ℂ𝕀𝕆ℕ𝔸𝕃 𝔻𝔼 ℙℝ𝕆𝔾ℝ𝔸𝕄𝔸ℂ𝕀𝕆́ℕ 𝕆ℝ𝕀𝔼ℕ𝕋𝔸𝔻𝔸 𝔸 𝕆𝔹𝕁𝔼𝕋𝕆𝕊 𝕐 𝔹𝔸𝕊𝔼𝕊 𝔻𝔼 𝔻𝔸𝕋𝕆𝕊 ℝ𝔼𝕃𝔸ℂ𝕀𝕆ℕ𝔸𝕃𝔼𝕊
+
 𝐄𝐍 𝐋𝐀 𝐄𝐌𝐏𝐑𝐄𝐒𝐀: 𝐅𝐈𝐑𝐄𝐂𝐇𝐈𝐏
 
 Este repositorio contiene la carpeta principal del proyecto (simple-glpi-api), donde se aloja todo el código (JavaScript y Python), la configuración y la documentación de la API.
