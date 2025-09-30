@@ -1,7 +1,7 @@
 ℙℝ𝔸́ℂ𝕋𝕀ℂ𝔸𝕊 𝔻𝔼𝕃 ℂ𝕌ℝ𝕊𝕆 𝕆ℂ𝕌ℙ𝔸ℂ𝕀𝕆ℕ𝔸𝕃 𝔻𝔼 ℙℝ𝕆𝔾ℝ𝔸𝕄𝔸ℂ𝕀𝕆́ℕ 𝕆ℝ𝕀𝔼ℕ𝕋𝔸𝔻𝔸 𝔸 𝕆𝔹𝕁𝔼𝕋𝕆𝕊 𝕐 𝔹𝔸𝕊𝔼𝕊 𝔻𝔼 𝔻𝔸𝕋𝕆𝕊 ℝ𝔼𝕃𝔸ℂ𝕀𝕆ℕ𝔸𝕃𝔼𝕊
 𝐄𝐍 𝐋𝐀 𝐄𝐌𝐏𝐑𝐄𝐒𝐀: 𝐅𝐈𝐑𝐄𝐂𝐇𝐈𝐏
 
-Este proyecto es el Trabajo Práctico finalizado durante mis prácticas profesionales en Fire&Chip. Es el requisito para la obtención del título del Curso Ocupacional de Programación Orientada a Objetos (POO) y Bases de Datos Relacionales.
+Este proyecto es el Trabajo Práctico finalizado durante mis prácticas profesionales en FIRECHIP. Es el requisito para la obtención del título del Curso Ocupacional de Programación Orientada a Objetos (POO) y Bases de Datos Relacionales.
 
 𝐎𝐁𝐉𝐄𝐓𝐈𝐕𝐎 𝐏𝐑𝐈𝐍𝐂𝐈𝐏𝐀𝐋:
 El objetivo principal fue demostrar la aplicación práctica de habilidades en desarrollo backend. Construí una API funcional y escalable usando JavaScript y el entorno Node.js, tomando como referencia el modelo de integración y la seguridad de la API de GLPI.
