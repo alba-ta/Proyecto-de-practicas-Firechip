@@ -1,6 +1,8 @@
 ℙℝ𝔸́ℂ𝕋𝕀ℂ𝔸𝕊 𝔻𝔼𝕃 ℂ𝕌ℝ𝕊𝕆 𝕆ℂ𝕌ℙ𝔸ℂ𝕀𝕆ℕ𝔸𝕃 𝔻𝔼 ℙℝ𝕆𝔾ℝ𝔸𝕄𝔸ℂ𝕀𝕆́ℕ 𝕆ℝ𝕀𝔼ℕ𝕋𝔸𝔻𝔸 𝔸 𝕆𝔹𝕁𝔼𝕋𝕆𝕊 𝕐 𝔹𝔸𝕊𝔼𝕊 𝔻𝔼 𝔻𝔸𝕋𝕆𝕊 ℝ𝔼𝕃𝔸ℂ𝕀𝕆ℕ𝔸𝕃𝔼𝕊
 𝐄𝐍 𝐋𝐀 𝐄𝐌𝐏𝐑𝐄𝐒𝐀: 𝐅𝐈𝐑𝐄𝐂𝐇𝐈𝐏
 
+Este repositorio contiene la carpeta principal del proyecto (simple-glpi-api), donde se aloja todo el código (JavaScript y Python), la configuración y la documentación de la API.
+
 Este proyecto es el Trabajo Práctico finalizado durante mis prácticas profesionales en FIRECHIP. Es el requisito para la obtención del título del Curso Ocupacional de Programación Orientada a Objetos (POO) y Bases de Datos Relacionales.
 
 𝐎𝐁𝐉𝐄𝐓𝐈𝐕𝐎 𝐏𝐑𝐈𝐍𝐂𝐈𝐏𝐀𝐋:
@@ -25,7 +27,7 @@ A continuación explicaré lo que he estado desarrollando durante el proyecto:
 Persistencia de Datos: La aplicación se conecta y gestiona datos persistentes utilizando MySQL. El enfoque estuvo en asegurar una correcta integración entre la lógica de la API (JavaScript/Express) y el servidor de la base de datos.
 
 𝗘𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗔 𝗦𝗜𝗠𝗣𝗟𝗘 𝗗𝗘𝗟 𝗣𝗥𝗢𝗬𝗘𝗖𝗧𝗢
-Los archivos principales están en la carpeta simple-glpi-api:
+Los archivos principales están dentro de la carpeta del proyecto, que fue desarrollado en el entorno de Visual Studio Code.
 
 server.js: Es el archivo central. Aquí está toda la lógica en JavaScript, definiendo las rutas (endpoints) y la coordinación de la API.
 
@@ -34,6 +36,8 @@ server.js: Es el archivo central. Aquí está toda la lógica en JavaScript, def
 package.json: Indica las librerías necesarias (express, mysql2) y los comandos para iniciar el servidor.
 
 test_api.py: Script de validación en Python. Se usa para verificar que nuestra API funciona correctamente.
+
+Documentación de la API: La documentación de todos los endpoints creados se adjunta por separado en el proyecto.
 
 𝐏𝐑𝐔𝐄𝐁𝐀𝐒 𝐘 𝐕𝐄𝐑𝐈𝐅𝐈𝐂𝐀𝐂𝐈𝐎́𝐍 𝐂𝐎𝐍 𝐏𝐘𝐓𝐇𝐎𝐍
 El script test_api.py (Python) es la herramienta de validación final para la Certificación de Paridad Funcional. Su objetivo es automatizar las pruebas y garantizar que nuestra simulación se comporta como la API real de GLPI.
