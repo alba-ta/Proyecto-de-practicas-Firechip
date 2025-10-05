@@ -79,7 +79,7 @@ El servidor debe permanecer activo y escuchando en 𝐡𝐭𝐭𝐩://𝐥𝐨�
 
 Estos pasos se ejecutan en una Terminal 2 separada y en estricto orden lógico:
 
-𝗣𝗔𝗦𝗢 𝟮: 𝗘𝗝𝗘𝗖𝗨𝗖𝗜𝗢́𝗡 𝗗𝗘 𝗟𝗔 𝗖𝗔𝗗𝗘𝗡𝗔 𝗗𝗘 𝗩𝗔𝗟𝗢𝗥 (𝗧𝗲𝗿𝗺𝗶𝗻𝗮𝗹 𝟮):
+𝗣𝗔𝗦𝗢 3: 𝗘𝗝𝗘𝗖𝗨𝗖𝗜𝗢́𝗡 𝗗𝗘 𝗟𝗔 𝗖𝗔𝗗𝗘𝗡𝗔 𝗗𝗘 𝗩𝗔𝗟𝗢𝗥 (𝗧𝗲𝗿𝗺𝗶𝗻𝗮𝗹 3):
 
 Se ejecuta para descartar errores de credenciales externas.
 
