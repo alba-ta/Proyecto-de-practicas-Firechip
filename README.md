@@ -25,6 +25,23 @@ El proyecto simple-glpi-api consiste en la construcción de una API REST robusta
 
 𝖳𝖾𝖼𝗇𝗈𝗅𝗈𝗀𝗂́𝖺𝗌 𝖢𝗅𝖺𝗏𝖾: 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍 (𝖭𝗈𝖽𝖾.𝗃𝗌/𝖤𝗑𝗉𝗋𝖾𝗌𝗌) 𝗒 𝖯𝗒𝗍𝗁𝗈𝗇.
 
+𝙈𝙖𝙧𝙠𝙙𝙤𝙬𝙣 𝙙𝙚 𝙢𝙞 𝙢𝙖𝙩𝙧𝙞𝙯 𝙙𝙚 𝙥𝙖𝙧𝙞𝙙𝙖𝙙:
+
+| Endpoint              | GLPI | Localhost |
+|-----------------------|------|-----------|
+| initSession           | ✔    | ✘         |
+| addItem               | ✔    | ✔         |
+| killSession           | ✔    | ✔         |
+| lostPassword          | ✔    | ✔         |
+| getMyProfiles         | ✔    | ✔         |
+| getActiveProfile      | ✔    | ✔         |
+| changeActiveProfile   | ✔    | ✔         |
+| getMyEntities         | ✔    | ✔         |
+| getActiveEntities     | ✔    | ✔         |
+| changeActiveEntities  | ✔    | ✔         |
+| getFullSession        | ✔    | ✔         |
+| getGlpiConfig         | ✔    | ✔         |
+
 𝙶𝚄𝙸́𝙰 𝙳𝙴 𝙰𝙲𝙲𝙴𝚂𝙾 𝙰 𝙻𝙰 𝙳𝙾𝙲𝚄𝙼𝙴𝙽𝚃𝙰𝙲𝙸𝙾́𝙽:
 
 La explicación completa de la Arquitectura, el listado exhaustivo de archivos y la guía paso a paso para la puesta en funcionamiento de la API se encuentran en la documentación dentro de la carpeta del proyecto:
