@@ -50,6 +50,7 @@ Esta es la lista completa de archivos esenciales dentro de la carpeta simple-glp
 
 𝗽𝗮𝗰𝗸𝗮𝗴𝗲-𝗹𝗼𝗰𝗸.𝗷𝘀𝗼𝗻  --> Fija las versiones exactas de todas las dependencias instaladas, garantizando la reproducibilidad del entorno.
 
+𝙥𝙧𝙪𝙚𝙗𝙖𝟮.𝙥𝙮 --> es el nuevo python creado para hacer la matriz de paridad.
 
 𝑷𝑼𝑬𝑺𝑻𝑨 𝑬𝑵 𝑭𝑼𝑵𝑪𝑰𝑶𝑵𝑨𝑴𝑰𝑬𝑵𝑻𝑶 (𝑮𝑼𝑰́𝑨 𝑫𝑬 𝑬𝑱𝑬𝑪𝑼𝑪𝑰𝑶́𝑵):
 
