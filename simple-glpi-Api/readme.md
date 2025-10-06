@@ -59,40 +59,24 @@ Requisitos Previos:
 
 Necesitas tener instalados: Node.js (v18+), un servidor MySQL accesible con el esquema cargado, y Python 3 (con el módulo requests).
 
-𝗣𝗔𝗦𝗢 𝟭: 𝗖𝗢𝗡𝗙𝗜𝗚𝗨𝗥𝗔𝗖𝗜𝗢́𝗡 𝗬 𝗔𝗥𝗥𝗔𝗡𝗤𝗨𝗘 𝗗𝗘 𝗟𝗔 𝗔𝗣𝗜 (𝗧𝗲𝗿𝗺𝗶𝗻𝗮𝗹 𝟭):
+PASO 1 INSTALACIÓN DE DEPENDENCIAS :
 
 El servidor de la API debe estar activo y ejecutándose en esta terminal.
 
-Instalar Dependencias:
-
 𝙣𝙥𝙢 𝙞𝙣𝙨𝙩𝙖𝙡𝙡
 
-Nos aseguramos de crear el archivo .env con tus credenciales.
+PASO 2-Levantamos el servidor:
 
-𝗜𝗻𝗶𝗰𝗶𝗮𝗿 𝗲𝗹 𝗦𝗲𝗿𝘃𝗶𝗱𝗼𝗿 (𝗧𝗲𝗿𝗺𝗶𝗻𝗮𝗹 𝟭):
+Ejecutamos npm start para levantar el servidor 
 
-El servidor debe permanecer activo y escuchando en 𝐡𝐭𝐭𝐩://𝐥𝐨𝐜𝐚𝐥𝐡𝐨𝐬𝐭:𝟑𝟎𝟎𝟎.
+PASO 3- en diferente terminal ejecutamos :
 
-𝗻𝗽𝗺 𝘀𝘁𝗮𝗿𝘁
+𝙩𝙚𝙨𝙩_𝙖𝙥𝙞.𝙥𝙮
 
-𝙋𝘼𝙎𝙊 𝟮: 𝙀𝙅𝙀𝘾𝙐𝘾𝙄𝙊́𝙉 𝘿𝙀 𝙇𝘼 𝘾𝘼𝘿𝙀𝙉𝘼 𝘿𝙀 𝙑𝘼𝙇𝙊𝙍 (𝙏𝙚𝙧𝙢𝙞𝙣𝙖𝙡 𝟮):
+PASO 4-Ejecutamos :
 
-Estos pasos se ejecutan en una Terminal 2 separada y en estricto orden lógico:
+𝒑𝒚𝒕𝒉𝒐𝒏 𝒑𝒂𝒓𝒊𝒕𝒚_𝒄𝒉𝒆𝒄𝒌.𝒑𝒚
 
-𝗣𝗔𝗦𝗢 3: 𝗘𝗝𝗘𝗖𝗨𝗖𝗜𝗢́𝗡 𝗗𝗘 𝗟𝗔 𝗖𝗔𝗗𝗘𝗡𝗔 𝗗𝗘 𝗩𝗔𝗟𝗢𝗥 (𝗧𝗲𝗿𝗺𝗶𝗻𝗮𝗹 3):
+Sin la ejecución del comando anterior no nos dejara hacer el siguiente comando:
 
-Se ejecuta para descartar errores de credenciales externas.
-
-𝒑𝒚𝒕𝒉𝒐𝒏 𝒑𝒂𝒓𝒊𝒕𝒚_𝒄𝒉𝒆𝒄𝒌.𝒑𝒚:
-
-Certificación de Paridad (test-simple.py):
-
-Punto Crítico. Valida el flujo de doble autenticación de tu API local. Debe ejecutarse con éxito para avanzar.
-
-𝒑𝒚𝒕𝒉𝒐𝒏 𝒕𝒆𝒔𝒕-𝒔𝒊𝒎𝒑𝒍𝒆.𝒑𝒚:
-
-𝑮𝒆𝒏𝒆𝒓𝒂𝒄𝒊𝒐́𝒏 𝒅𝒆 𝑴𝒂𝒕𝒓𝒊𝒛 (𝒈𝒆𝒏𝒆𝒓𝒂𝒓_𝒎𝒂𝒕𝒓𝒊𝒛.𝒑𝒚):
-
-Este script ejecuta la lógica de negocio final, asumiendo que la validación fue exitosa.
-
-𝒑𝒚𝒕𝒉𝒐𝒏 𝒈𝒆𝒏𝒆𝒓𝒂𝒓_𝒎𝒂𝒕𝒓𝒊𝒛.𝒑𝒚
+𝙜𝙚𝙣𝙚𝙧𝙖𝙧_𝙢𝙖𝙩𝙧𝙞𝙯.𝙥𝙮 --> obtenemos la matriz de paridad
